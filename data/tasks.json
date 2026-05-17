@@ -1,0 +1,21 @@
+[
+    {
+        "task_id": 2,
+        "title": "go to the magnum",
+        "completed": false,
+        "created_at": "2026-05-04 00:12:39",
+        "type": "priority",
+        "priority": "high",
+        "category": "daily"
+    },
+    {
+        "task_id": 4,
+        "title": "assignment",
+        "completed": false,
+        "created_at": "2026-05-04 00:15:17",
+        "type": "deadline",
+        "priority": "medium",
+        "category": "weekly",
+        "deadline": "2026-05-16"
+    }
+]
