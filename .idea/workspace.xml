@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e86087e-d008-4d7b-9561-347cf757bbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todo_manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/base_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/priority_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/task_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_todo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/helpers.py" afterDir="false" />
+    <list default="true" id="4e86087e-d008-4d7b-9561-347cf757bbf6" name="Changes" comment="Initial commit — To-Do List Manager">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/base_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/base_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/priority_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/priority_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/task_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage/task_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_todo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_todo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/helpers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +30,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mrbekazz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mrbekazz/To-Do-List-Manager.git",
+    "accountId": "cd9ffce8-3304-485f-9643-a4b2abc8ba1c"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/README.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.venv/requirements.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DE6UKifrnNpjQo7ymBErBEXbn8" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,6 +63,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_todo.py.executor": "Run",
+    "Python.base_task.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1777834899127</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit — To-Do List Manager">
+      <option name="closed" value="true" />
+      <created>1779009521615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779009521616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit — To-Do List Manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit — To-Do List Manager" />
   </component>
 </project>
